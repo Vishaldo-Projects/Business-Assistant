@@ -211,15 +211,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Gradio** - For the user interface framework
 - **Open Source Community** - For the amazing tools and libraries
 
-## 📞 Support
-
-For support and questions:
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/business-ai-assistant/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/business-ai-assistant/discussions)
-
----
-
 **⚠️ Disclaimer**: This assistant provides general business guidance. For legal, tax, or specialized professional advice, consult qualified professionals.
 
 **🎯 Made for entrepreneurs, by entrepreneurs** - Helping businesses grow and succeed! 💼✨
